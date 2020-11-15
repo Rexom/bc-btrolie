@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "bc"
+const developers = "736203329947828264"
 
 ////////
 
